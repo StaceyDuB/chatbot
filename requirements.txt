@@ -1,1 +1,10 @@
 streamlit
+﻿langchain
+openai
+pandasai
+pdfplumber
+pypdf
+streamlit-chat
+tiktoken
+youtube-transcript-api
+faiss-cpu
